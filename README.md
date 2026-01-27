@@ -1,3 +1,6 @@
+[![Pixel Art Wallpaper Desktop Gif](https://github.com/user-attachments/assets/68b05b87-a235-4916-82e3-b3d8bfa59896)
+]()
+
 # 💫 About Me:
 Hi, I’m Aman Kumar, a BCA student at BBD University, Lucknow, passionate about building scalable and user-centric web applications.<br><br>I’m a Full Stack Developer with hands-on experience in React, Tailwind CSS, Spring Boot, and MongoDB. I enjoy turning ideas into real-world applications and integrating AI-driven features to solve practical problems. I’ve completed a Full Stack Development internship, where I worked on real projects, followed clean coding practices, and collaborated in a production-like environment.<br><br>I believe in learning by building. My projects focus on authentication, APIs, responsive UI, and deployment. I’m currently sharpening my problem-solving skills, improving code quality, and preparing for in-campus placements.<br><br>💡 Curious learner | Strong fundamentals | Growth-oriented mindset
 
